@@ -1,1 +1,9 @@
-
+title: Goose Chase
+description: "Engineering Coursework: Creating LibGDX"
+theme: minima
+header_pages: 
+  - implementation.md
+  - requirements.md
+  - architecture.md
+  - planning.md
+  - risk.md
