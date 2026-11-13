@@ -2,4 +2,5 @@
 layout: home
 title: Home
 ---
-Welcome to 4 The Win's 'Goose Patrol'
+Welcome to Goose Patrol
+By 4 The Win
