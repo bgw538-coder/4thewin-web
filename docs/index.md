@@ -2,4 +2,4 @@
 layout: home
 title: Home
 ---
-Welcome to Goose Chase.
+Welcome to 4 The Win's 'Goose Patrol'
