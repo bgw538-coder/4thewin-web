@@ -11,10 +11,12 @@ Engineering Coursework: Creating LibGDX
 - [Download the game (executable JAR)](goose-patrol.jar)
 - [Source code (version control repository)](https://github.com/kwr526-Isadora/Isadora.github.io)
 
-## Documents (PDF)
+## Documents
 
-- [Requirements](requirements.pdf)
-- [Architecture](architecture.pdf)
-- [Implementation](implementation.pdf)
-- [Planning](planning.pdf)
-- [Risks](risks.pdf)
+| Document | PDF | Editable version |
+|---|---|---|
+| Requirements | [PDF](requirements.pdf) | [.docx](requirements.docx) |
+| Architecture | [PDF](architecture.pdf) | [.docx](architecture.docx) |
+| Implementation | [PDF](implementation.pdf) | [.docx](implementation.docx) |
+| Planning | [PDF](planning.pdf) | [.docx](planning.docx) |
+| Risks | [PDF](risks.pdf) | [.docx](risks.docx) |
