@@ -15,8 +15,8 @@ Engineering Coursework: Creating LibGDX
 
 | Document | PDF | Editable version |
 |---|---|---|
-| Requirements | [PDF](requirements.pdf) | [.docx](requirements.docx) |
-| Architecture | [PDF](architecture.pdf) | [.docx](architecture.docx) |
-| Implementation | [PDF](implementation.pdf) | [.docx](implementation.docx) |
-| Planning | [PDF](planning.pdf) | [.docx](planning.docx) |
-| Risks | [PDF](risks.pdf) | [.docx](risks.docx) |
+| Requirements | [Req1.pdf](Req1.pdf) | [Req1.docx](Req1.docx) |
+| Architecture | [Arch1.pdf](Arch1.pdf) | [Arch1.docx](Arch1.docx) |
+| Implementation | [Impl1.pdf](Impl1.pdf) | [Impl1.docx](Impl1.docx) |
+| Planning | [Plan1.pdf](Plan1.pdf) | [Plan1.docx](Plan1.docx) |
+| Risks | [Risk1.pdf](Risk1.pdf) | [Risk1.docx](Risk1.docx) |
