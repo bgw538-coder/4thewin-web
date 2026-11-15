@@ -5,4 +5,4 @@ permalink: /implementation/
 ---
 
 # Implementation
-(content here)
+(content)
