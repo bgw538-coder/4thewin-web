@@ -4,5 +4,5 @@ title: Risks
 permalink: /risks/
 ---
 
-# Risks
-(content here)
+[Download the Risks PDF]({{ '/risks.pdf' | relative_url }})
+
