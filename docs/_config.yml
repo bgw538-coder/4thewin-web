@@ -1,7 +1,13 @@
+---
+layout: page
 title: Goose Patrol
-description: "Engineering Coursework: Creating LibGDX"
-theme: minima
-header_pages:
+permalink: /
+---
+
+Engineering Coursework: Creating LibGDX
+
+## The game
+
 - [Download the game (executable JAR)](goose-patrol.jar)
 - [Source code (version control repository)](https://github.com/bgw538-coder/4thewin-web)
 
