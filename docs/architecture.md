@@ -10,7 +10,7 @@ permalink: /architecture/
 
 ### Diagrams
 
-- [diagram.pdf]({{ '/diagrams/diagram.pdf' | relative_url }})
+- [component.diagram.png]({{ '/diagrams/component.diagram.png' | relative_url }})
 
 ### CRC cards
 
