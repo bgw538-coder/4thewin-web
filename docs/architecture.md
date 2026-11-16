@@ -17,9 +17,9 @@ permalink: /architecture/
 - [hidden events sequence.diagram.png]({{ '/diagrams/hidden events sequence diagram.png' | relative_url }})
 - [hidden events.diagram.png]({{ '/diagrams/hidden events diagram.png' | relative_url }})
 - [game world and entities.diagram.png]({{ '/diagrams/game world and entities diagram.png' | relative_url }})
-- [game state new ver.diagram.png]({{ '/diagrams/game state new ver diagram.png' | relative_url }})
-- [game state old ver.diagram.png]({{ '/diagrams/game state old ver diagram.png' | relative_url }})
-- [game activity loop.png]({{ '/diagrams/game activity loop diagram.png' | relative_url }})
+- [game state new ver.diagram.png]({{ '/diagrams/game state new ver.png' | relative_url }})
+- [game state old ver.diagram.png]({{ '/diagrams/game state diagram old ver.png' | relative_url }})
+- [game activity loop.png]({{ '/diagrams/game activity loop.png' | relative_url }})
 - [full class diagram.diagram.png]({{ '/diagrams/full class diagram.png' | relative_url }})
 - [entity hierarchy diagram.diagram.png]({{ '/diagrams/entity hierarchy diagram.png' | relative_url }})
 
