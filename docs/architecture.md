@@ -25,4 +25,4 @@ permalink: /architecture/
 
 ### CRC cards
 
-- [crc.pdf]({{ '/crc-cards/crc.pdf' | relative_url }})
+- [crc.pdf]({{ 'CRC cards.pdf' | relative_url }})
