@@ -3,3 +3,8 @@ description: "Engineering Coursework: Creating LibGDX"
 theme: minima
 header_pages:
   - index.md
+  - requirements.md
+  - architecture.md
+  - implementation.md
+  - planning.md
+  - risks.md
