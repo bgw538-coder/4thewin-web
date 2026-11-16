@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Method Selection and Planning
+title: Planning
 permalink: /planning/
 ---
 
