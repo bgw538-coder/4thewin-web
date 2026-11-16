@@ -10,11 +10,11 @@ permalink: /architecture/
 
 ### Diagrams
 
-- Diagrams({{ '/diagrams/diagram.pdf' | relative_url }})
+- [diagram.pdf]({{ '/diagrams/diagram.pdf' | relative_url }})
 
 ### CRC cards
 
-- CRC({{ '/crc-cards/crc.pdf' | relative_url }})
+- [crc.pdf]({{ '/crc-cards/crc.pdf' | relative_url }})
 
 ## Additional documents
 
