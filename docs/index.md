@@ -8,5 +8,5 @@ Engineering Coursework: Creating LibGDX
 
 ## The game
 
-- [Download the game (executable JAR)](goose-patrol.jar)
+- [Download game - (.JAR file)](goose-patrol.jar)
 - [Source code (version control repository)](https://github.com/kwr526-Isadora/Isadora.github.io)
