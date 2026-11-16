@@ -15,7 +15,3 @@ permalink: /architecture/
 ### CRC cards
 
 - [crc.pdf]({{ '/crc-cards/crc.pdf' | relative_url }})
-
-## Additional documents
-
-- [Architecture plan.pdf]({{ '/archplan.pdf' | relative_url }})
