@@ -8,5 +8,5 @@ permalink: /planning/
 
 ## Planning / Gantt charts
 
-- [Weekly charts]({{ '/gantt-charts/weekly_ganttcharts.pdf' | relative_url }})
-- [Final chart]({{ '/gantt-charts/whole gantt chart.pdf' | relative_url }})
+- [Weekly charts]({{ '//weekly_ganttcharts.pdf' | relative_url }})
+- [Final chart]({{ '/whole gantt chart.pdf' | relative_url }})
