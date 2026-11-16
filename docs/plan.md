@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Planning
+title: Methods & Plan
 permalink: /planning/
 ---
 
@@ -8,4 +8,5 @@ permalink: /planning/
 
 ## Planning / Gantt charts
 
-- [Gantt Charts]({{ '/gantt-charts/ganttchart.pdf' | relative_url }})
+- [Weekly charts]({{ '/gantt-charts/weekly_ganttcharts.pdf' | relative_url }})
+- [Final chart]({{ '/gantt-charts/whole gantt chart.pdf' | relative_url }})
